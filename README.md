@@ -1,5 +1,3 @@
-https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Juan%20Camilo%20VergaraNavarro&fontSize=60&textBg=false&reversal=false&section=header
-
 ## Hi there 👋
 
 :computer: **Politologo Espcialista en gerencia de proyectos**
